@@ -126,6 +126,9 @@ Video embedding uses the official YouTube embed format
 
 This project is for educational and portfolio purposes.
 
-👤 Author
-Ogulcan Erdag
+---
+
+### 👤 Author
+
+Ogulcan Erdag  
 Full-Stack & DevOps Engineer
